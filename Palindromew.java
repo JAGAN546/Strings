@@ -19,6 +19,6 @@ public class Palindromew {
             System.out.println(lo+" is palindrome word");
         else
             System.out.println(lo+" is not palindrome word");
-        // sc.close();
+        sc.close();
     }    
 }
